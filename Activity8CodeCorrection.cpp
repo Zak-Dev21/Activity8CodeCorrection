@@ -1,13 +1,15 @@
-Int main() {
 
-    Int x = 10;
 
-    Int y = 3;
+int main() {
 
-    Double z = x / y;
+    int x = 10;
 
-    Cout << z;
+    int y = 3;
 
-    Return 0;
+    double z = x / y;
+
+    cout << z;
+
+    return 0;
 
 }
